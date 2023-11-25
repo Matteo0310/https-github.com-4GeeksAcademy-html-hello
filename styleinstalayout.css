@@ -1,0 +1,68 @@
+body {background-color: rgb(0, 0, 0);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0;
+      height: 100vh;
+}
+.container { background-color: white;
+             width: 500px;
+             height: 600px;
+}
+.header { display: flex;
+          margin-top: 10px;
+}
+.html {margin-top: 0%;
+      margin-bottom: 0%;
+}
+.matteo { margin-top: 0%;
+          margin-bottom: 0%;
+ }
+.htmlicon { font-size: 2rem; 
+            margin-left: 9px;
+}
+.texticon { margin-left: 10px;
+            margin-bottom: 0%;
+            font-family: 'Quicksand', sans-serif; 
+}
+.pointsicon {justify-content: flex-start;
+             font-size: 1.5rem;
+             margin-left: 375px;
+}
+.image { height: 390px;
+         width: 500px;
+         margin-top: none;
+}
+.middleicons {display: flex;
+             width: auto;
+             margin-top: 0%;
+             
+}
+.righticoins {display: flex; 
+                    justify-content:space-around;
+                    width: 100px;
+                    font-size: 1.5rem;
+                    margin-left: 8px;
+                    margin-top: 5px;
+}
+.bookmarkicon { justify-self: left;
+            font-size: 1.5rem;
+            margin-top: 5px;
+            margin-left: 360px;
+}
+.firstparaghrap {font-family: 'Quicksand', sans-serif;
+      text-align: center;
+      font-size: 0.9rem;
+      margin-left: 10px;
+      margin-right: 10px;
+      margin-top: 0%;
+      margin-bottom: 0%;
+      text-align: justify;}  
+
+.text {font-family: 'Quicksand', sans-serif;
+       text-align: center;
+       font-size: 0.9rem;
+       margin-left: 10px;
+       margin-right: 10px;
+       text-align: justify;
+}
